@@ -1,1 +1,3 @@
+class Cipher
 
+end
